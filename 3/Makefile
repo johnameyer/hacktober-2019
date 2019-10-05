@@ -1,5 +1,5 @@
 make:	make.rs
 	rustc make.rs
 
-clean:	make
+clean:
 	rm make
